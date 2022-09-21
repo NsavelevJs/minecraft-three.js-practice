@@ -1,6 +1,6 @@
-- [] Boilerplate
-- [] Sky
-- [] Textures and images
+- [X] Boilerplate
+- [X] Sky
+- [X] Textures and images
 - [] Ground
 - [] Player
 - [] First person view
